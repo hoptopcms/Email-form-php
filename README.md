@@ -1,4 +1,4 @@
-# -02.04.2019
+# Форма обратной связи с валидацией на PHP
 Контактная форма.
 Откройте config.php и замените в строке define("EMAIL_ADDRES", "test@mail.ru");  test@mail.ru на свой e-mail.
 Откройте файл  soglasie-na-obrabotku-personalnyh-dannyh.txt и замените содержимое файла на свое соглашение.
